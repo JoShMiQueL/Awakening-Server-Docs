@@ -3,7 +3,7 @@
 ## Changelog
 ---
 ### Actualización 1.0.2 - 22/09/2020
-> [+] Nuevo sistema de registro<br/>
+> [+] Nuevo sistema de registro.<br/>
 > [+] Nuevo comando [/mapa](Comandos.md?id=mapa) añadido. Este comando permite añadir una imagen a un mapa mediante una url.
 ### Actualización 1.0.1 - 21/09/2020
 > [+] Nuevo comando [/cabeza](Comandos.md?id=cabeza) añadido. Este comando permite saber la probabilidad de obtención de la cabeza de un mob al matarlo.<br/>

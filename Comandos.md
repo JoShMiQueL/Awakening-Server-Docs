@@ -51,3 +51,18 @@ Entrada:
 Salida:
 <br/>
 ![](images/tumba-out-1.png)‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎![](images/tumba-out-2.png)
+
+> ### /mapa
+*Añadido en la versión 1.0.2*<br/><br/>
+**El jugador recibe un mapa con la imagen de la url.**
+<br/>
+<br/>
+*Ejemplo:*
+<br/>
+Entrada:
+<br/>
+![](images/mapa-in.png)
+<br/>
+Salida:
+<br/>
+![](images/use-example-mapa-out.gif)‎‎‏‏‎
